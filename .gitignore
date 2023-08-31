@@ -6,6 +6,27 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+6. Transfer Learning/data/
+5. Going Modular/data/
+4. Custom Datasets/data/
+3. Computer Vision/dig_data/
+
+# Pycache
+6. Transfer Learning/__pycache__/
+5. Going Modular/__pycache__/
+3. Computer Vision/__pycache__/
+2. Pytorch Classification/__pycache__/
+
+# Exercises
+0. Pytorch Fundamentals/00_pytorch_fundamentals_exercises.ipynb
+1. Pytorch Workflow/01_pytorch_workflow_exercises.ipynb
+2. Pytorch Classification/02_pytorch_classification_exercises.ipynb
+3. Computer Vision/03_pytorch_computer_vision_exercises.ipynb
+4. Custom Datasets/04_pytorch_custom_datasets_exercises.ipynb
+5. Going Modular/05_pytorch_going_modular_exercise_template.ipynb
+6. Transfer Learning/06_pytorch_transfer_learning_exercises.ipynb
+
 # Distribution / packaging
 .Python
 build/
