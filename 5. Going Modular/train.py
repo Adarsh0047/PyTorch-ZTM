@@ -1,5 +1,5 @@
 """
-Trains a PyTorch image classification model using device-agnostic code.
+Trains a PyTorch image classification model using device agnostic code.
 """
 
 import os
