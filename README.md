@@ -1,6 +1,6 @@
 # Pytorch ZTM
 
-This repository contains all the code written by me from the [ZTM - Pytorch Course](https://www.udemy.com/course/pytorch-for-deep-learning/) by [Danie Bourke](https://github.com/mrdbourke).
+This repository contains all the code written by me from the [ZTM - Pytorch Course](https://www.udemy.com/course/pytorch-for-deep-learning/) by [Daniel Bourke](https://github.com/mrdbourke).
 
 This repository contains a folder for each section in the course. Each folder has the notebook from the course, exercise notebook with solution and data.
 
